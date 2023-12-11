@@ -40,6 +40,7 @@ dependencies:
   dashed_circle: ^0.0.2
   rect_getter: ^1.1.0
   font_awesome_flutter: ^10.6.0
+  flutter_screenutil: ^5.9.0
 
 dev_dependencies:
   flutter_test:
